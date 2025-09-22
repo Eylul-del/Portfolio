@@ -36,8 +36,8 @@ document.addEventListener("DOMContentLoaded", function () {
   new Typed(".typed", {
     strings: items,
     typeSpeed: 50,
-    backSpeed: 100,
-    backDelay: 2000,
+    backSpeed: 50,
+    backDelay: 1500,
     loop: true,
     showCursor: true
   });
