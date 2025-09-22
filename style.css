@@ -642,7 +642,7 @@ footer p span{
         display: flex;
         flex-direction: column;
         align-items: end;
-        height: 2090vh;
+        height: 2000vh;
         border: 1px solid red;
         width: 420px !important;
     }
