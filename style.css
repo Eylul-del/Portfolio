@@ -634,15 +634,16 @@ footer p span{
 
 
 @media (max-width: 420px) {
-  /*   body, html{
-        overflow-x: hidden; 
-    }*/
+    body, html{
+       overflow-x: hidden; 
+    }
 
     .all{
         display: flex;
         flex-direction: column;
         align-items: end;
-        height: 2100vh;
+        height: 2090vh;
+        border: 1px solid red;
         width: 420px !important;
     }
 
